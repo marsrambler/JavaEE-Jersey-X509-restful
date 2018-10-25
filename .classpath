@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry kind="var" path="M2_REPO/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar" sourcepath="M2_REPO/javax/servlet/servlet-api/2.5/servlet-api-2.5-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar" sourcepath="M2_REPO/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar" sourcepath="M2_REPO/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/inject/javax.inject/1/javax.inject-1.jar" sourcepath="M2_REPO/javax/inject/javax.inject/1/javax.inject-1-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.16/log4j-1.2.16.jar" sourcepath="M2_REPO/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.jar" sourcepath="M2_REPO/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar" sourcepath="M2_REPO/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar" sourcepath="M2_REPO/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/ext/jersey-spring3/2.22.2/jersey-spring3-2.22.2.jar" sourcepath="M2_REPO/org/glassfish/jersey/ext/jersey-spring3/2.22.2/jersey-spring3-2.22.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/core/jersey-server/2.22.2/jersey-server-2.22.2.jar" sourcepath="M2_REPO/org/glassfish/jersey/core/jersey-server/2.22.2/jersey-server-2.22.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/core/jersey-common/2.22.2/jersey-common-2.22.2.jar" sourcepath="M2_REPO/org/glassfish/jersey/core/jersey-common/2.22.2/jersey-common-2.22.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.22.2/jersey-guava-2.22.2.jar" sourcepath="M2_REPO/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.22.2/jersey-guava-2.22.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/hk2-api/2.4.0-b34/hk2-api-2.4.0-b34.jar" sourcepath="M2_REPO/org/glassfish/hk2/hk2-api/2.4.0-b34/hk2-api-2.4.0-b34-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/hk2-utils/2.4.0-b34/hk2-utils-2.4.0-b34.jar" sourcepath="M2_REPO/org/glassfish/hk2/hk2-utils/2.4.0-b34/hk2-utils-2.4.0-b34-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/external/aopalliance-repackaged/2.4.0-b34/aopalliance-repackaged-2.4.0-b34.jar" sourcepath="M2_REPO/org/glassfish/hk2/external/aopalliance-repackaged/2.4.0-b34/aopalliance-repackaged-2.4.0-b34-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/external/javax.inject/2.4.0-b34/javax.inject-2.4.0-b34.jar" sourcepath="M2_REPO/org/glassfish/hk2/external/javax.inject/2.4.0-b34/javax.inject-2.4.0-b34-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/hk2-locator/2.4.0-b34/hk2-locator-2.4.0-b34.jar" sourcepath="M2_REPO/org/glassfish/hk2/hk2-locator/2.4.0-b34/hk2-locator-2.4.0-b34-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar" sourcepath="M2_REPO/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar" sourcepath="M2_REPO/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/core/jersey-client/2.22.2/jersey-client-2.22.2.jar" sourcepath="M2_REPO/org/glassfish/jersey/core/jersey-client/2.22.2/jersey-client-2.22.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/media/jersey-media-jaxb/2.22.2/jersey-media-jaxb-2.22.2.jar" sourcepath="M2_REPO/org/glassfish/jersey/media/jersey-media-jaxb/2.22.2/jersey-media-jaxb-2.22.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/containers/jersey-container-servlet-core/2.22.2/jersey-container-servlet-core-2.22.2.jar" sourcepath="M2_REPO/org/glassfish/jersey/containers/jersey-container-servlet-core/2.22.2/jersey-container-servlet-core-2.22.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/hk2/2.4.0-b34/hk2-2.4.0-b34.jar" sourcepath="M2_REPO/org/glassfish/hk2/hk2/2.4.0-b34/hk2-2.4.0-b34-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/config-types/2.4.0-b34/config-types-2.4.0-b34.jar" sourcepath="M2_REPO/org/glassfish/hk2/config-types/2.4.0-b34/config-types-2.4.0-b34-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/hk2-config/2.4.0-b34/hk2-config-2.4.0-b34.jar" sourcepath="M2_REPO/org/glassfish/hk2/hk2-config/2.4.0-b34/hk2-config-2.4.0-b34-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/hk2-core/2.4.0-b34/hk2-core-2.4.0-b34.jar" sourcepath="M2_REPO/org/glassfish/hk2/hk2-core/2.4.0-b34/hk2-core-2.4.0-b34-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jvnet/tiger-types/1.4/tiger-types-1.4.jar" sourcepath="M2_REPO/org/jvnet/tiger-types/1.4/tiger-types-1.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/external/bean-validator/2.4.0-b34/bean-validator-2.4.0-b34.jar" sourcepath="M2_REPO/org/glassfish/hk2/external/bean-validator/2.4.0-b34/bean-validator-2.4.0-b34-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/hk2-runlevel/2.4.0-b34/hk2-runlevel-2.4.0-b34.jar" sourcepath="M2_REPO/org/glassfish/hk2/hk2-runlevel/2.4.0-b34/hk2-runlevel-2.4.0-b34-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/class-model/2.4.0-b34/class-model-2.4.0-b34.jar" sourcepath="M2_REPO/org/glassfish/hk2/class-model/2.4.0-b34/class-model-2.4.0-b34-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/external/asm-all-repackaged/2.4.0-b34/asm-all-repackaged-2.4.0-b34.jar" sourcepath="M2_REPO/org/glassfish/hk2/external/asm-all-repackaged/2.4.0-b34/asm-all-repackaged-2.4.0-b34-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/spring-bridge/2.4.0-b34/spring-bridge-2.4.0-b34.jar" sourcepath="M2_REPO/org/glassfish/hk2/spring-bridge/2.4.0-b34/spring-bridge-2.4.0-b34-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-context/3.2.3.RELEASE/spring-context-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-aop/3.2.3.RELEASE/spring-aop-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="var" path="M2_REPO/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" sourcepath="M2_REPO/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-beans/3.2.3.RELEASE/spring-beans-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-core/3.2.3.RELEASE/spring-core-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-expression/3.2.3.RELEASE/spring-expression-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-web/3.2.3.RELEASE/spring-web-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/ext/jersey-entity-filtering/2.22.2/jersey-entity-filtering-2.22.2.jar" sourcepath="M2_REPO/org/glassfish/jersey/ext/jersey-entity-filtering/2.22.2/jersey-entity-filtering-2.22.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/media/jersey-media-json-jackson/2.22.2/jersey-media-json-jackson-2.22.2.jar" sourcepath="M2_REPO/org/glassfish/jersey/media/jersey-media-json-jackson/2.22.2/jersey-media-json-jackson-2.22.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.5.4/jackson-jaxrs-base-2.5.4.jar" sourcepath="M2_REPO/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.5.4/jackson-jaxrs-base-2.5.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.5.4/jackson-core-2.5.4.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.5.4/jackson-core-2.5.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.5.4/jackson-databind-2.5.4.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.5.4/jackson-databind-2.5.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.5.4/jackson-annotations-2.5.4.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.5.4/jackson-annotations-2.5.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.5.4/jackson-jaxrs-json-provider-2.5.4.jar" sourcepath="M2_REPO/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.5.4/jackson-jaxrs-json-provider-2.5.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.5.4/jackson-module-jaxb-annotations-2.5.4.jar" sourcepath="M2_REPO/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.5.4/jackson-module-jaxb-annotations-2.5.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/media/jersey-media-multipart/2.22.2/jersey-media-multipart-2.22.2.jar" sourcepath="M2_REPO/org/glassfish/jersey/media/jersey-media-multipart/2.22.2/jersey-media-multipart-2.22.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jvnet/mimepull/mimepull/1.9.6/mimepull-1.9.6.jar" sourcepath="M2_REPO/org/jvnet/mimepull/mimepull/1.9.6/mimepull-1.9.6-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
